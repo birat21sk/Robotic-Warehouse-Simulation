@@ -2,29 +2,28 @@
 ---
 
 ## Files
-.
-├── Good.py - defines the `Good` class representing items to be collected and delivered.
-├── README - this file, providing an overview of the project, instructions, and design notes.
-├── Robot.py - defines the `Robot` class representing the autonomous agents that collect and deliver goods.
-├── Simulation.py - contains the main `Simulation` class that orchestrates the warehouse simulation.
-├── WareHouseSpace.py - defines the `WarehouseSpace` class representing the grid-based warehouse environment.
-├── compare_summaries.py - script to generate a comparison chart from multiple summary CSV files.
-├── constants.py - defines constant values used across the simulation (e.g. robot states, colors).
-├── params - directory containing parameter CSV files for different simulation scenarios.
-│       ├── params1.csv
-│       ├── params2.csv
-│       └── params3.csv
-├── summaries - directory for output statistics and visualisations from simulations.
-│       ├── comparison.png
-│       ├── summary.csv
-│       ├── summary1.csv
-│       ├── summary2.csv
-│       └── summary3.csv
-├── terrains - directory containing terrain CSV files defining the warehouse layouts.
-│       ├── map1.csv
-│       └── map2.csv
-├── warehouse.py - main script to run the warehouse simulation, supporting both interactive and batch modes.
-└── warehouse_final.png - final frame of the simulation when run.
+- Good.py - defines the `Good` class representing items to be collected and delivered.
+- README - this file, providing an overview of the project, instructions, and design notes.
+- Robot.py - defines the `Robot` class representing the autonomous agents that collect and deliver goods.
+- Simulation.py - contains the main `Simulation` class that orchestrates the warehouse simulation.
+- WareHouseSpace.py - defines the `WarehouseSpace` class representing the grid-based warehouse environment.
+- compare_summaries.py - script to generate a comparison chart from multiple summary CSV files.
+-  constants.py - defines constant values used across the simulation (e.g. robot states, colors).
+- params - directory containing parameter CSV files for different simulation scenarios.
+   - params1.csv
+   - params2.csv
+   - params3.csv
+- summaries - directory for output statistics and visualisations from simulations.
+   - comparison.png
+   - summary.csv
+   - summary1.csv
+   - summary2.csv
+   - summary3.csv
+- directory containing terrain CSV files defining the warehouse layouts.
+   - map1.csv
+   - map2.csv
+- warehouse.py - main script to run the warehouse simulation, supporting both interactive and batch modes.
+- warehouse_final.png - final frame of the simulation when run.
 
 3 directories, 19 files
 
