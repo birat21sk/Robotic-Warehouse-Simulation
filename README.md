@@ -1,7 +1,4 @@
 # Robotic Warehouse Simulation
-### COMP5005 Fundamentals of Programming, Semester 1 2026
-## Student Name: Birat Siku
-## Student ID: 23443206
 ---
 
 ## Files
