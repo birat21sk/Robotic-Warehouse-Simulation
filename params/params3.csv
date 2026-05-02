@@ -1,0 +1,6 @@
+num_robots,2
+num_goods,30
+max_time_steps,600
+anim_delay,0.05
+animate,true
+seed,7
